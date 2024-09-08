@@ -4,6 +4,9 @@
 新しいフォルダの作成 / Create new folder：
 ```
 mkdir daily_stats
+
+cd daily_stats/
+git pull git@github.com:kneckebrodet/daily_stats.git
 ```
 仮想環境の作成 / Create virtual environment
 ```
