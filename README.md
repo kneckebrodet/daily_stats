@@ -2,26 +2,29 @@
 [INSTALLATION AND SETUP]
 
 新しいフォルダの作成 / Create new folder：
+```
 mkdir daily_stats
-
-仮想環境の作成 / Create virtual environment:
+```
+仮想環境の作成 / Create virtual environment
+```
 python -m venv venv
-
+```
 仮想環境に入る / Enter v.environment:
+```
 venv\Scripts\activate
-
+```
 必要なライブラリをインストール　/ Install necessary libraries
-pip install --upgrade
-python -m ensurepip --upgrade python -m
-pipp setuptools python -m ensure pip
-pip install numpy 
-pip install mysql-connector-python 
-pip install matplotlib 
-pip install kivy 
-pip install kivymd 
-pip install kivy-garden 
-garden install matplotlib --kivy 
-# IF kivy garden ERROR with "resize_event":
+```pip install --upgrade```
+```python -m ensurepip --upgrade python -m```
+```pip setuptools python -m ensure pip```
+```pip install numpy ```
+```pip install mysql-connector-python ```
+```pip install matplotlib ```
+```pip install kivy ```
+```pip install kivymd ```
+```pip install kivy-garden ```
+```garden install matplotlib --kivy ```
+# IF kivy garden ERROR with "resize_event"
     python -m pip install https://github.com/kivy-garden/matplotlib/archive/master.zip
 # after installation change [kivy.garden] -> [kivy_garden] when importing library
 
