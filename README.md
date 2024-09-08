@@ -1,4 +1,4 @@
-# DemoApp
+## Daily statistics application
 [INSTALLATION AND SETUP]
 
 新しいフォルダの作成 / Create new folder：
