@@ -17,16 +17,36 @@ python -m venv venv
 venv\Scripts\activate
 ```
 必要なライブラリをインストール　/ Install necessary libraries
-```pip install --upgrade```
-```python -m ensurepip --upgrade python -m```
-```pip setuptools python -m ensure pip```
-```pip install numpy ```
-```pip install mysql-connector-python ```
-```pip install matplotlib ```
-```pip install kivy ```
-```pip install kivymd ```
-```pip install kivy-garden ```
-```garden install matplotlib --kivy ```
+```
+pip install --upgrade
+```
+```
+python -m ensurepip --upgrade python -m
+```
+```
+pip setuptools python -m ensure pip
+```
+```
+pip install numpy
+```
+```
+pip install mysql-connector-python
+```
+```
+pip install matplotlib
+```
+```
+pip install kivy
+```
+```
+pip install kivymd 
+```
+```
+pip install kivy-garden
+```
+```
+garden install matplotlib --kivy
+```
 # IF kivy garden ERROR with "resize_event"
     python -m pip install https://github.com/kivy-garden/matplotlib/archive/master.zip
 # after installation change [kivy.garden] -> [kivy_garden] when importing library
