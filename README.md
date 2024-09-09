@@ -42,7 +42,7 @@ CREATE TABLE user_data (user_id INT, date VARCHAR(255), sleep VARCHAR(255), weig
 CREATE TABLE to_do_lists (user_id INT, task VARCHAR(255), detail VARCHAR(255));
 
 SHOW TABLES;
-{
+```
 +-----------------------+
 | Tables_in_daily_stats |
 +-----------------------+
@@ -53,7 +53,7 @@ SHOW TABLES;
 | wakeup_times          |
 +-----------------------+
 5 rows in set (0.00 sec)
-}
+```
 
 テーブルの作成が完成であれば、「database.py」のファイルでデータベースのuserとpasswordを入力して:
 <!-- def __init__(self):
