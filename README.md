@@ -21,10 +21,7 @@ venv\Scripts\activate
 pip install --upgrade
 ```
 ```
-python -m ensurepip --upgrade python -m
-```
-```
-pip setuptools python -m ensure pip
+pip install --upgrade setuptools
 ```
 ```
 pip install numpy
