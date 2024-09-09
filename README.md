@@ -18,37 +18,13 @@ venv\Scripts\activate
 ```
 必要なライブラリをインストール　/ Install necessary libraries
 ```
-pip install --upgrade
-```
-```
 pip install --upgrade setuptools
 ```
 ```
-pip install numpy
+pip install -r requirements.txt
 ```
-```
-pip install mysql-connector-python
-```
-```
-pip install matplotlib
-```
-```
-pip install kivy
-```
-```
-pip install kivymd 
-```
-```
-pip install kivy-garden
-```
-```
-garden install matplotlib --kivy
-```
-## IF kivy garden ERROR with "resize_event"
-    python -m pip install https://github.com/kivy-garden/matplotlib/archive/master.zip
-## after installation change [kivy.garden] -> [kivy_garden] when importing library
 
-MySQLデータベースをセットアップ / setup MySQL database:
+## MySQLデータベースをセットアップ / setup MySQL database:
 
 CREATE DATABASE daily_stats;
 
