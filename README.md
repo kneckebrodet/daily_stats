@@ -1,4 +1,4 @@
-## Daily statistics application
+# Daily statistics application
 [INSTALLATION AND SETUP]
 
 新しいフォルダの作成 / Create new folder：
@@ -44,9 +44,9 @@ pip install kivy-garden
 ```
 garden install matplotlib --kivy
 ```
-# IF kivy garden ERROR with "resize_event"
+## IF kivy garden ERROR with "resize_event"
     python -m pip install https://github.com/kivy-garden/matplotlib/archive/master.zip
-# after installation change [kivy.garden] -> [kivy_garden] when importing library
+## after installation change [kivy.garden] -> [kivy_garden] when importing library
 
 MySQLデータベースをセットアップ / setup MySQL database:
 
