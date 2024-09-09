@@ -4,8 +4,8 @@ from datetime import datetime, timedelta
 class MySQL:
     def __init__(self):
         self.db = mysql.connector.connect(
-            user='root',
-            password='saqr7ttxlucke',
+            user='',
+            password='',
             host='localhost',
             database='daily_stats'
         )
