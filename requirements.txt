@@ -1,0 +1,7 @@
+numpy==2.1.1
+mysql-connector-python==9.0.0
+matplotlib==3.9.2
+kivy==2.3.0
+kivymd==1.2.0
+https://github.com/kivy-garden/matplotlib/archive/master.zip
+
