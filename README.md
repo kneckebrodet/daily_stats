@@ -43,6 +43,7 @@ CREATE TABLE to_do_lists (user_id INT, task VARCHAR(255), detail VARCHAR(255));
 
 SHOW TABLES;
 ```
+```
 +-----------------------+
 | Tables_in_daily_stats |
 +-----------------------+
