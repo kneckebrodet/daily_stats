@@ -1,7 +1,7 @@
 # Daily statistics application
-[INSTALLATION AND SETUP]
+##[インストールとセットアップ / INSTALLATION AND SETUP]
 
-新しいフォルダの作成 / Create new folder：
+###新しいフォルダの作成 / Create new folder：
 ```
 mkdir daily_stats
 
