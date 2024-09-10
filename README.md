@@ -57,7 +57,7 @@ SHOW TABLES;
 ```
 
 ### テーブルの作成が完成であれば、「database.py」のファイルでデータベースのuserとpasswordを入力して:
-### When all the db-tables are created, insert the database user and password in the 「database.py」file:
+### When all the tables are created, fill in the database user and password in the 「database.py」file:
 ```
 def __init__(self):
         self.db = mysql.connector.connect(
