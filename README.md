@@ -6,9 +6,9 @@ mkdir daily_stats
 
 cd daily_stats/
 
-<<全ての.pyファイルをこのフォルダへ移動する>>
+全ての.pyファイルをこのフォルダへ移動する / Place all the .py files in this folder
 ```
-仮想環境の作成 / Create virtual environment
+### 仮想環境の作成 / Create virtual environment
 ```
 python -m venv venv
 ```
