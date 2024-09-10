@@ -1,4 +1,4 @@
-# [インストールとセットアップ / INSTALLATION AND SETUP]
+## [インストールとセットアップ / INSTALLATION AND SETUP]
 
 ### 新しいフォルダの作成 / Create new folder：
 ```
