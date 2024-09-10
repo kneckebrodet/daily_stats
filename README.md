@@ -40,7 +40,7 @@ CREATE TABLE bed_times (user_id INT, date VARCHAR(255), time VARCHAR(255));
 CREATE TABLE user_data (user_id INT, date VARCHAR(255), sleep VARCHAR(255), weight FLOAT, walking INT, exercise INT, skillup INT, reading INT, meditation TINYINT(1), ifast TINYINT(1));
 
 CREATE TABLE to_do_lists (user_id INT, task VARCHAR(255), detail VARCHAR(255));
-```
+
 SHOW TABLES;
 ```
 +-----------------------+
@@ -57,20 +57,21 @@ SHOW TABLES;
 
 ### テーブルの作成が完成であれば、「database.py」のファイルでデータベースのuserとpasswordを入力して:
 ### When all the db-tables are created, insert the database user and password in the 「database.py」file:
-<!-- def __init__(self):
+```
+def __init__(self):
         self.db = mysql.connector.connect(
             user='',
             password='',
             host='localhost',
             database='daily_stats'
-        ) 
--->
+) 
+```
 
-テストデータを入れて、アプリケーションが問題なく動くのを確認する：
-Insert test data to check that app is working correctly:
-
+### テストデータを入れて、アプリケーションがちゃんと動くのを確認する：
+### Insert test data to check that app is working correctly:
+```
 python insert_test_data.py
 
 python main.py
-
+```
 「admin」というユーザー名でログインしてグラフを確認
