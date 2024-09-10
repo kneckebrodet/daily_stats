@@ -16,7 +16,7 @@ python -m venv venv
 ```
 venv\Scripts\activate
 ```
-### 必要なライブラリをインストール　/ Install necessary libraries
+### 必要なライブラリをインストール / Install necessary libraries
 ```
 pip install --upgrade setuptools
 ```
