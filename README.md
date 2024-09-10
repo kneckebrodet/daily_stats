@@ -12,11 +12,11 @@ cd daily_stats/
 ```
 python -m venv venv
 ```
-仮想環境に入る / Enter v.environment:
+### 仮想環境に入る / Enter v.environment:
 ```
 venv\Scripts\activate
 ```
-必要なライブラリをインストール　/ Install necessary libraries
+### 必要なライブラリをインストール　/ Install necessary libraries
 ```
 pip install --upgrade setuptools
 ```
@@ -24,8 +24,8 @@ pip install --upgrade setuptools
 pip install -r requirements.txt
 ```
 
-## MySQLデータベースをセットアップ / setup MySQL database:
-
+### MySQLデータベースをセットアップ / setup MySQL database:
+```
 CREATE DATABASE daily_stats;
 
 USE daily_stats;
@@ -40,7 +40,7 @@ CREATE TABLE bed_times (user_id INT, date VARCHAR(255), time VARCHAR(255));
 CREATE TABLE user_data (user_id INT, date VARCHAR(255), sleep VARCHAR(255), weight FLOAT, walking INT, exercise INT, skillup INT, reading INT, meditation TINYINT(1), ifast TINYINT(1));
 
 CREATE TABLE to_do_lists (user_id INT, task VARCHAR(255), detail VARCHAR(255));
-
+```
 SHOW TABLES;
 ```
 +-----------------------+
