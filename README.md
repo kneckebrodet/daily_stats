@@ -16,7 +16,7 @@ python -m venv venv
 ```
 venv\Scripts\activate
 ```
-### 必要なライブラリをインストール / Install necessary libraries
+### 必要なライブラリのインストール / Install necessary libraries
 ```
 pip install --upgrade setuptools
 ```
@@ -24,7 +24,7 @@ pip install --upgrade setuptools
 pip install -r requirements.txt
 ```
 
-### MySQLデータベースをセットアップ / setup MySQL database:
+### MySQLデータベースのセットアップ / setup MySQL database:
 ```
 CREATE DATABASE daily_stats;
 
@@ -55,7 +55,8 @@ SHOW TABLES;
 5 rows in set (0.00 sec)
 ```
 
-テーブルの作成が完成であれば、「database.py」のファイルでデータベースのuserとpasswordを入力して:
+### テーブルの作成が完成であれば、「database.py」のファイルでデータベースのuserとpasswordを入力して:
+### When all the db-tables are created, insert the database user and password in the 「database.py」file:
 <!-- def __init__(self):
         self.db = mysql.connector.connect(
             user='',
