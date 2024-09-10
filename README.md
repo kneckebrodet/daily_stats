@@ -5,7 +5,8 @@
 mkdir daily_stats
 
 cd daily_stats/
-git pull git@github.com:kneckebrodet/daily_stats.git
+
+<<全ての.pyファイルをこのフォルダへ移動する>>
 ```
 仮想環境の作成 / Create virtual environment
 ```
