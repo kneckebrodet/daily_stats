@@ -79,16 +79,16 @@ python main.py
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f0f26812-97d6-4d5a-88d1-d9bd9b5e8d10" alt="Description" width="100" height="auto" />
+  <img src="https://github.com/user-attachments/assets/f0f26812-97d6-4d5a-88d1-d9bd9b5e8d10" alt="Description" width="200" height="auto" />
   &rarr;
-  <img src="https://github.com/user-attachments/assets/e20a9e23-5429-43d0-97f2-352ee87c3a63" alt="Description" width="100" height="auto" />
+  <img src="https://github.com/user-attachments/assets/e20a9e23-5429-43d0-97f2-352ee87c3a63" alt="Description" width="200" height="auto" />
   &rarr;
-  <img src="https://github.com/user-attachments/assets/d096e0bc-1673-4fc2-8894-43ec1c9b8f7e" alt="Description" width="100" height="auto" />
+  <img src="https://github.com/user-attachments/assets/d096e0bc-1673-4fc2-8894-43ec1c9b8f7e" alt="Description" width="200" height="auto" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d3f8b1ab-d128-44d2-ada4-77a9a226ad36" alt="Description" width="100" height="auto" />
+  <img src="https://github.com/user-attachments/assets/d3f8b1ab-d128-44d2-ada4-77a9a226ad36" alt="Description" width="200" height="auto" />
   &rarr;
-  <img src="https://github.com/user-attachments/assets/736b28b9-5a7e-4f69-ae3f-012607269439" alt="Description" width="100" height="auto" />
+  <img src="https://github.com/user-attachments/assets/736b28b9-5a7e-4f69-ae3f-012607269439" alt="Description" width="200" height="auto" />
   &rarr;
-  <img src="https://github.com/user-attachments/assets/d580b707-55ae-4469-be77-a22eb3dfcd89" alt="Description" width="100" height="auto" />
+  <img src="https://github.com/user-attachments/assets/d580b707-55ae-4469-be77-a22eb3dfcd89" alt="Description" width="200" height="auto" />
 </p>
