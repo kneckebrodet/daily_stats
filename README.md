@@ -77,13 +77,13 @@ python main.py
 ```
 「admin」というユーザー名でログインしてグラフを確認 / At first, login as 「admin」to check that everything works and to create users.
 
-<p align="center">
-　<div align="center">Check that Graph is working</div>
+<p>
+　<div>Check that Graph is working</div>
   <img src="https://github.com/user-attachments/assets/f0f26812-97d6-4d5a-88d1-d9bd9b5e8d10" alt="img" width="200" height="auto" />
   <img src="https://github.com/user-attachments/assets/d09eb7ad-cb0a-4906-9826-0b2fb8bee66e" alt="img" width="200" height="auto" />
   <img src="https://github.com/user-attachments/assets/d096e0bc-1673-4fc2-8894-43ec1c9b8f7e" alt="img" width="200" height="auto" />
 </p>
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/d3f8b1ab-d128-44d2-ada4-77a9a226ad36" alt="img" width="200" height="auto" />
   <img src="https://github.com/user-attachments/assets/736b28b9-5a7e-4f69-ae3f-012607269439" alt="img" width="200" height="auto" />
   <img src="https://github.com/user-attachments/assets/d580b707-55ae-4469-be77-a22eb3dfcd89" alt="img" width="200" height="auto" />
