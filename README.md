@@ -75,4 +75,8 @@ python insert_test_data.py
 
 python main.py
 ```
-「admin」というユーザー名でログインしてグラフを確認
+「admin」というユーザー名でログインしてグラフを確認 / At first, login as 「admin」to check that everything works and to create users.
+
+
+<img src="https://github.com/user-attachments/assets/f0f26812-97d6-4d5a-88d1-d9bd9b5e8d10" alt="Description" width="300" height="auto" style="display: block; margin: 0 auto;" />
+
