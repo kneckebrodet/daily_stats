@@ -92,3 +92,20 @@ python main.py
   &rarr;
   <img src="https://github.com/user-attachments/assets/d580b707-55ae-4469-be77-a22eb3dfcd89" alt="Description" width="200" height="auto" />
 </p>
+
+
+<p align="center">
+  <!-- Text above the second row -->
+  <span style="display: inline-block; text-align: center; margin-bottom: 5px;">Image 4</span>
+  <span style="display: inline-block; text-align: center; margin-bottom: 5px;">&nbsp;</span>
+  <span style="display: inline-block; text-align: center; margin-bottom: 5px;">Image 5</span>
+  <span style="display: inline-block; text-align: center; margin-bottom: 5px;">&nbsp;</span>
+  <span style="display: inline-block; text-align: center; margin-bottom: 5px;">Image 6</span>
+  <br> <!-- Line break between text and images -->
+        
+  <img src="https://github.com/user-attachments/assets/d3f8b1ab-d128-44d2-ada4-77a9a226ad36" alt="Description" width="200" height="auto" style="vertical-align: middle;" />
+  <span style="font-size: 24px; vertical-align: middle; margin: 0 10px;">&rarr;</span>
+  <img src="https://github.com/user-attachments/assets/736b28b9-5a7e-4f69-ae3f-012607269439" alt="Description" width="200" height="auto" style="vertical-align: middle;" />
+  <span style="font-size: 24px; vertical-align: middle; margin: 0 10px;">&rarr;</span>
+  <img src="https://github.com/user-attachments/assets/d580b707-55ae-4469-be77-a22eb3dfcd89" alt="Description" width="200" height="auto" style="vertical-align: middle;" />
+</p>
