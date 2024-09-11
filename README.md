@@ -79,33 +79,15 @@ python main.py
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f0f26812-97d6-4d5a-88d1-d9bd9b5e8d10" alt="Description" width="200" height="auto" />
-  &rarr;
-  <img src="https://github.com/user-attachments/assets/e20a9e23-5429-43d0-97f2-352ee87c3a63" alt="Description" width="200" height="auto" />
-  &rarr;
-  <img src="https://github.com/user-attachments/assets/d096e0bc-1673-4fc2-8894-43ec1c9b8f7e" alt="Description" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/f0f26812-97d6-4d5a-88d1-d9bd9b5e8d10" alt="img" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/e20a9e23-5429-43d0-97f2-352ee87c3a63" alt="img" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/d096e0bc-1673-4fc2-8894-43ec1c9b8f7e" alt="img" width="200" height="auto" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d3f8b1ab-d128-44d2-ada4-77a9a226ad36" alt="Description" width="200" height="auto" />
-  &rarr;
-  <img src="https://github.com/user-attachments/assets/736b28b9-5a7e-4f69-ae3f-012607269439" alt="Description" width="200" height="auto" />
-  &rarr;
-  <img src="https://github.com/user-attachments/assets/d580b707-55ae-4469-be77-a22eb3dfcd89" alt="Description" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/d3f8b1ab-d128-44d2-ada4-77a9a226ad36" alt="img" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/736b28b9-5a7e-4f69-ae3f-012607269439" alt="img" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/d580b707-55ae-4469-be77-a22eb3dfcd89" alt="img" width="200" height="auto" />
 </p>
 
 
-<p align="center">
-  <!-- Text above the second row -->
-  <span style="display: inline-block; text-align: center; margin-bottom: 5px;">Image 4</span>
-  <span style="display: inline-block; text-align: center; margin-bottom: 5px;">&nbsp;</span>
-  <span style="display: inline-block; text-align: center; margin-bottom: 5px;">Image 5</span>
-  <span style="display: inline-block; text-align: center; margin-bottom: 5px;">&nbsp;</span>
-  <span style="display: inline-block; text-align: center; margin-bottom: 5px;">Image 6</span>
-  <br> <!-- Line break between text and images -->
-        
-  <img src="https://github.com/user-attachments/assets/d3f8b1ab-d128-44d2-ada4-77a9a226ad36" alt="Description" width="200" height="auto" style="vertical-align: middle;" />
-  <span style="font-size: 24px; vertical-align: middle; margin: 0 10px;">&rarr;</span>
-  <img src="https://github.com/user-attachments/assets/736b28b9-5a7e-4f69-ae3f-012607269439" alt="Description" width="200" height="auto" style="vertical-align: middle;" />
-  <span style="font-size: 24px; vertical-align: middle; margin: 0 10px;">&rarr;</span>
-  <img src="https://github.com/user-attachments/assets/d580b707-55ae-4469-be77-a22eb3dfcd89" alt="Description" width="200" height="auto" style="vertical-align: middle;" />
-</p>
+
