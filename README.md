@@ -77,10 +77,9 @@ python main.py
 ```
 「admin」というユーザー名でログインしてグラフを確認 / At first, login as 「admin」to check that everything works and to create users.
 
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f0f26812-97d6-4d5a-88d1-d9bd9b5e8d10" alt="img" width="200" height="auto" />
-  <img src="https://github.com/user-attachments/assets/e20a9e23-5429-43d0-97f2-352ee87c3a63" alt="img" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/d09eb7ad-cb0a-4906-9826-0b2fb8bee66e" alt="img" width="200" height="auto" />
   <img src="https://github.com/user-attachments/assets/d096e0bc-1673-4fc2-8894-43ec1c9b8f7e" alt="img" width="200" height="auto" />
 </p>
 <p align="center">
