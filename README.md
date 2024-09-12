@@ -90,7 +90,7 @@ python main.py
 </p>
 
 <p>
-　<h1>②　ユーザー作成 / Create user</h1>
+　<h1>②　ユーザー作成 (アドミンしかできないこと）/ Create user (only possible as admin)</h1>
   <img src="https://github.com/user-attachments/assets/fec74d0e-fdd9-4d6c-97ce-720187827dd2" alt="img" width="200" height="auto" />
   <img src="https://github.com/user-attachments/assets/b3f1ba7e-436e-4e3c-9cac-164cbca98379" alt="img" width="200" height="auto" />
   <img src="https://github.com/user-attachments/assets/15608449-e9bf-42a7-851d-74868cd3f491" alt="img" width="200" height="auto" />
