@@ -89,5 +89,10 @@ python main.py
   <img src="https://github.com/user-attachments/assets/d580b707-55ae-4469-be77-a22eb3dfcd89" alt="img" width="200" height="auto" />
 </p>
 
-
+<p>
+　<h2>②　Create user</h2>
+  <img src="https://github.com/user-attachments/assets/fec74d0e-fdd9-4d6c-97ce-720187827dd2" alt="img" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/b3f1ba7e-436e-4e3c-9cac-164cbca98379" alt="img" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/15608449-e9bf-42a7-851d-74868cd3f491" alt="img" width="200" height="auto" />
+</p>
 
