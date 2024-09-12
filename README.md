@@ -100,5 +100,6 @@ python main.py
   <h2>③　アプリがちゃんと動いて、自分のユーザー作成が完了であれば、アプリが使えます / When everything is working and you have created your own user, you can start using the app </h2>
   <h3> Add notes/to-dos</h3>
   <img src="https://github.com/user-attachments/assets/a44131cb-0546-46f0-ba04-25938da596ed" alt="img" width="200" height="auto" />
-  <img src="https://github.com/user-attachments/assets/b3f1ba7e-436e-4e3c-9cac-164cbca98379" alt="img" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/6cf6515f-c802-484f-8e6b-8562a07cf1fe" alt="img" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/f9987a8c-25a4-4e6b-933a-fd46dcec2e0b" alt="img" width="200" height="auto" />
 </p>
