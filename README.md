@@ -104,11 +104,11 @@ python main.py
   <img src="https://github.com/user-attachments/assets/f9987a8c-25a4-4e6b-933a-fd46dcec2e0b" alt="img" width="200" height="auto" />
   <img src="https://github.com/user-attachments/assets/341f64f3-5905-40b4-b1b2-be85b9b473df" alt="img" width="200" height="auto" />
 
-  <h3> Register wakeup time/to-dos</h3>
+  <h3> Register wakeup time</h3>
   <img src="https://github.com/user-attachments/assets/bc87e455-1402-46c2-bb37-5f622af8a3eb" alt="img" width="200" height="auto" />
   <img src="https://github.com/user-attachments/assets/0a4dd48a-1578-4a21-a993-c7c4d00a9e93" alt="img" width="200" height="auto" />
 
-  <h3> Register day before sleep/to-dos</h3>
+  <h3> Register day before sleep</h3>
   <img src="https://github.com/user-attachments/assets/df58c325-91a1-48da-9590-fe0244045eee" alt="img" width="200" height="auto" />
   <img src="https://https://github.com/user-attachments/assets/7cab1783-924f-445f-a95a-d96fdd2f0d4c" alt="img" width="200" height="auto" />
 </p>
