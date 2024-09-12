@@ -78,7 +78,7 @@ python main.py
 「admin」というユーザー名でログインしてグラフを確認 / At first, login as 「admin」to check that everything works and to create users.
 
 <p>
-　<h2>①　Check that Graph is working</h2>
+　<h1>①　グラフが問題なく動くチェック / Check that Graph is working</h1>
   <img src="https://github.com/user-attachments/assets/f0f26812-97d6-4d5a-88d1-d9bd9b5e8d10" alt="img" width="200" height="auto" />
   <img src="https://github.com/user-attachments/assets/d09eb7ad-cb0a-4906-9826-0b2fb8bee66e" alt="img" width="200" height="auto" />
   <img src="https://github.com/user-attachments/assets/d096e0bc-1673-4fc2-8894-43ec1c9b8f7e" alt="img" width="200" height="auto" />
@@ -90,7 +90,7 @@ python main.py
 </p>
 
 <p>
-　<h2>②　Create user</h2>
+　<h1>②　ユーザー作成 / Create user</h1>
   <img src="https://github.com/user-attachments/assets/fec74d0e-fdd9-4d6c-97ce-720187827dd2" alt="img" width="200" height="auto" />
   <img src="https://github.com/user-attachments/assets/b3f1ba7e-436e-4e3c-9cac-164cbca98379" alt="img" width="200" height="auto" />
   <img src="https://github.com/user-attachments/assets/15608449-e9bf-42a7-851d-74868cd3f491" alt="img" width="200" height="auto" />
