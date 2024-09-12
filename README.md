@@ -95,7 +95,6 @@ python main.py
   <img src="https://github.com/user-attachments/assets/b3f1ba7e-436e-4e3c-9cac-164cbca98379" alt="img" width="200" height="auto" />
   <img src="https://github.com/user-attachments/assets/15608449-e9bf-42a7-851d-74868cd3f491" alt="img" width="200" height="auto" />
 </p>
-![todo_btn](https://github.com/user-attachments/assets/a44131cb-0546-46f0-ba04-25938da596ed)
 
 <p>
   <h1>③　アプリがちゃんと動いて、自分のユーザー作成が完了であれば、アプリが使えます。</h2>
