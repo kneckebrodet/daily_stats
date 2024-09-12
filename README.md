@@ -110,5 +110,5 @@ python main.py
 
   <h3> Register day before sleep</h3>
   <img src="https://github.com/user-attachments/assets/df58c325-91a1-48da-9590-fe0244045eee" alt="img" width="200" height="auto" />
-  <img src="https://https://github.com/user-attachments/assets/7cab1783-924f-445f-a95a-d96fdd2f0d4c" alt="img" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/7cab1783-924f-445f-a95a-d96fdd2f0d4c" alt="img" width="200" height="auto" />
 </p>
